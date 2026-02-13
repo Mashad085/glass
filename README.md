@@ -42,6 +42,7 @@ nvm use --lts
 ```bash
 cd /opt
 git clone https://github.com/Mashad085/glass
+cd glass
 unzip Glass-ISC-main.zip
 cd Glass-ISC-main
 mkdir -p logs
